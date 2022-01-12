@@ -1,3 +1,3 @@
-library adapt_helper;
+library ui_adapt_package;
 
-export 'package:adapt_helper/adapt/ui_adapt.dart';
+export 'package:ui_adapt_package/adapt/ui_adapt.dart';
