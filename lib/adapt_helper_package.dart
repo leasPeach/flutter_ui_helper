@@ -1,3 +1,3 @@
-library ui_adapt_package;
+library flutter_package;
 
-export 'package:ui_adapt_package/adapt/ui_adapt.dart';
+export 'package:flutter_package/adapt/ui_adapt.dart';
