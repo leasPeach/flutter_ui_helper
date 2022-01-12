@@ -1,3 +1,3 @@
-library flutter_ui_helper;
+library ui_helper_package;
 
-export 'package:flutter_ui_helper/flutter_ui_helper.dart';
+export 'package:ui_helper_package/flutter_ui_helper.dart';
